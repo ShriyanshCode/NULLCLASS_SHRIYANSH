@@ -2,9 +2,13 @@
 
 This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arXiv Qualitative Finance Chatbot**. Both projects share similar basic requirements for reusability, including the use of MongoDB Atlas and Google Gemini API.
 
-## Basic Requirements 
+## Basic Requirements for replication (change theses parameters in params.py)
 - **MongoDB Atlas:** You need to have a MongoDB Atlas collection and account set up.
 - **Google Gemini API Key:** Make sure you have a valid Google Gemini API key.
+- ** Create python virtual env to avoid clashing pakcage imports: **
+- ```python
+  py -m venv virtualenvname
+  python -m venv virtualenvname
 
 ## TASK 1: MedQuAD Q&A Chatbot
 
