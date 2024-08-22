@@ -13,15 +13,15 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
 ## TASK 1: MedQuAD Q&A Chatbot
 
 ### Setup and Run
-1. Navigate to the `TASK1` directory:
+1. Navigate to the `medquad` directory:
    ```bash
-   cd TASK1
+   cd TASK1\medquad
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
 2. Run chatbot:
    ```bash
-   streamlit run main.py
+   streamlit run Chatbot_QnA.py
 
 ## TASK 2: arXiv Qualitative Finance Chatbot
 
@@ -34,7 +34,7 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
    pip install -r requirements.txt
 2. Run chatbot:
    ```bash
-   streamlit run main.py
+   streamlit run Chatbot_main.py
 ### Reusability
 1. Install the required dependencies in new directory:
    ```bash
@@ -61,7 +61,9 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
       }
    }
 5. Once the index is created, run the Streamlit application:
+   ```bash
+   streamlit run Chatbot_main.py
+or 
 ```bash
-   streamlit run main.py
-
-
+   streamlit run Chatbot_QnA.py
+     
