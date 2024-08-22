@@ -5,7 +5,7 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
 ## Basic Requirements for replication (change theses parameters in params.py)
 - **MongoDB Atlas:** You need to have a MongoDB Atlas collection and account set up.
 - **Google Gemini API Key:** Make sure you have a valid Google Gemini API key.
-- ** Create python virtual env to avoid clashing pakcage imports: **
+- ** Create python virtual env to avoid clashing pakcage imports:**
 - ```python
   py -m venv virtualenvname
   python -m venv virtualenvname
