@@ -6,7 +6,7 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
 - **MongoDB Atlas:** You need to have a MongoDB Atlas collection and account set up.
 - **Google Gemini API Key:** Make sure you have a valid Google Gemini API key.
 - **Create python virtual env to avoid clashing pakcage imports:**
-- ```python
+  ```python
   py -m venv virtualenvname
   python -m venv virtualenvname
 
