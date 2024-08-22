@@ -21,6 +21,7 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
    pip install -r requirements.txt
 2. Run chatbot:
    ```bash
+   py params.py
    streamlit run Chatbot_QnA.py
 
 ## TASK 2: arXiv Qualitative Finance Chatbot
@@ -34,6 +35,7 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
    pip install -r requirements.txt
 2. Run chatbot:
    ```bash
+   py params.py
    streamlit run Chatbot_main.py
 ### Reusability
 1. Install the required dependencies in new directory:
