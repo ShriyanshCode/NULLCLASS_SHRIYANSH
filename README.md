@@ -19,9 +19,11 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
-2. Run chatbot:
+3. Run to enable API Keys:
    ```bash
    py params.py
+2. Run chatbot:
+   ```bash
    streamlit run Chatbot_QnA.py
 
 ## TASK 2: arXiv Qualitative Finance Chatbot
@@ -29,11 +31,14 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
 ### Setup and Run
 1. Navigate to the `TASK2` directory:
    ```bash
-   cd TASK1
+   cd TASK2
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
-2. Run chatbot:
+3. Run to enable API Keys:
+   ```bash
+   py params.py
+4. Run chatbot:
    ```bash
    py params.py
    streamlit run Chatbot_main.py
