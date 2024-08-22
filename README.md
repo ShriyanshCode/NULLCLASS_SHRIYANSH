@@ -60,10 +60,7 @@ This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arX
         }
       }
    }
-5. Once the index is created, run the Streamlit application:
+5. Once the index is created, run:
     ```bash
-   streamlit run Chatbot_main.py
-
-  ```bash
    streamlit run Chatbot_QnA.py
      
