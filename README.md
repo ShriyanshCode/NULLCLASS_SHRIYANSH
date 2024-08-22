@@ -1,6 +1,11 @@
 # Chatbot Projects
 
 This repository contains two chatbot projects: **MedQuAD Q&A Chatbot** and **arXiv Qualitative Finance Chatbot**. Both projects share similar basic requirements for reusability, including the use of MongoDB Atlas and Google Gemini API.
+Pre-processing of data has been done using kaggle in the following files:
+medquad-data-preproccessing_kaggle.ipynb
+arxiv-preprocessing.ipynb
+A GPU running chatbot can be found here, in the code cell having %writefile.py:
+Shriyansh_MEDquad_colab.ipynb
 
 ## Basic Requirements for replication (change theses parameters in params.py)
 - **MongoDB Atlas:** You need to have a MongoDB Atlas collection and account set up.
