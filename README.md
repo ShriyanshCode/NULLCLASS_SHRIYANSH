@@ -27,7 +27,7 @@ Shriyansh_MEDquad_colab.ipynb
 3. Run to enable API Keys:
    ```bash
    py params.py
-2. Run chatbot:
+2. Run chatbot/ GUI via Streamlit:
    ```bash
    streamlit run Chatbot_QnA.py
 
@@ -43,7 +43,7 @@ Shriyansh_MEDquad_colab.ipynb
 3. Run to enable API Keys:
    ```bash
    py params.py
-4. Run chatbot:
+4. Run chatbot / GUI via Streamlit:
    ```bash
    py params.py
    streamlit run Chatbot_main.py
