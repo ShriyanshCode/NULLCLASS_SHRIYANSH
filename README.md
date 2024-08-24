@@ -29,7 +29,9 @@ This has been built using python 3.9.12.
    pip install -r requirements.txt
 3. Run to enable API Keys:
    ```bash
-   py params.py or python params.py
+   py params.py
+   or
+   python params.py
 2. Run chatbot/ GUI via Streamlit:
    ```bash
    streamlit run Chatbot_QnA.py
@@ -45,7 +47,10 @@ This has been built using python 3.9.12.
    pip install -r requirements.txt
 3. Run to enable API Keys:
    ```bash
-   py params.py or python params.py
+   py params.py
+   or
+   python params.py
+
 4. Run chatbot / GUI via Streamlit:
    ```bash
    streamlit run Chatbot_main.py
