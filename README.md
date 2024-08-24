@@ -30,7 +30,7 @@ This has been built using python 3.9.12.
 3. Run to enable API Keys:
    ```bash
    py params.py
-   or
+   #or
    python params.py
 2. Run chatbot/ GUI via Streamlit:
    ```bash
@@ -48,7 +48,7 @@ This has been built using python 3.9.12.
 3. Run to enable API Keys:
    ```bash
    py params.py
-   or
+   #or
    python params.py
 
 4. Run chatbot / GUI via Streamlit:
@@ -64,7 +64,9 @@ This has been built using python 3.9.12.
    collectionName = "your_collection_name"
 3. Load the new data into MongoDB:
    ```bash
-   python load.py or py load.py
+   python load.py
+   #or
+   py load.py
 4. Create a vector search index using the following parameters (since the data has been embedded with Google's embedding-001 model):
    ```bash
    {
