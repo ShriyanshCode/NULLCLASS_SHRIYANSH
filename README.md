@@ -14,7 +14,7 @@ Shriyansh_MEDquad_colab.ipynb
   ```python
   py -m venv virtualenvname
   python -m venv virtualenvname
--Please ensure to use correct python exec:
+-**Please ensure to use correct python exec:**
 py filename.py or python filename.py depending on the python version you use.
 This has been built using python 3.9.12.
 
