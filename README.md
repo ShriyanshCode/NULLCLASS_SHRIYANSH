@@ -26,7 +26,7 @@ Shriyansh_MEDquad_colab.ipynb
    pip install -r requirements.txt
 3. Run to enable API Keys:
    ```bash
-   py params.py
+   py params.py or python params.py
 2. Run chatbot/ GUI via Streamlit:
    ```bash
    streamlit run Chatbot_QnA.py
@@ -42,10 +42,9 @@ Shriyansh_MEDquad_colab.ipynb
    pip install -r requirements.txt
 3. Run to enable API Keys:
    ```bash
-   py params.py
+   py params.py or python params.py
 4. Run chatbot / GUI via Streamlit:
    ```bash
-   py params.py
    streamlit run Chatbot_main.py
 ### Reusability
 1. Install the required dependencies in new directory:
@@ -57,7 +56,7 @@ Shriyansh_MEDquad_colab.ipynb
    collectionName = "your_collection_name"
 3. Load the new data into MongoDB:
    ```bash
-   python load.py
+   python load.py or py load.py
 4. Create a vector search index using the following parameters (since the data has been embedded with Google's embedding-001 model):
    ```bash
    {
