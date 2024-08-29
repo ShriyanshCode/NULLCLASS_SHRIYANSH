@@ -6,6 +6,10 @@ medquad-data-preproccessing_kaggle.ipynb
 arxiv-preprocessing (1).ipynb
 A GPU running chatbot can be found here, in the code cell having %writefile.py:
 Shriyansh_MEDquad_colab.ipynb
+## Demos:
+![screenshot](https://github.com/ShriyanshCode/NULLCLASS_SHRIYANSH/blob/master/brief_desc.jpg)
+![screenshot](https://github.com/ShriyanshCode/NULLCLASS_SHRIYANSH/blob/master/explanation.jpg)
+![screenshot](https://github.com/ShriyanshCode/NULLCLASS_SHRIYANSH/blob/master/multilanguage.jpg)
 
 ## Basic Requirements for replication (change theses parameters in params.py)
 - **MongoDB Atlas:** You need to have a MongoDB Atlas collection and account set up.
